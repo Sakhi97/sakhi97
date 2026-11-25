@@ -1,7 +1,6 @@
 ## 🚀 Hi, I'm Sakhi
 ### I'm a Junior Full Stack Developer
 
-- 🚀 Currently interning at **Tailio**
 - 🧠 Learning **Artificial Intelligence** and **Machine Learning**
 
 ---
